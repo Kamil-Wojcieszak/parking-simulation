@@ -1,17 +1,14 @@
-# Projekt NiDUC, PWR 2023
+# Project NiDUC, PWR 2023
+The project's topic is the Reliability of a Repairable Series-Parallel System - MTTF, MTBF.
 
-Tematem projektu jest Niezawodność naprawialnego systemu szeregowo-równoległego - MTTF, MTBF
+The project will analyze a repairable series-parallel system. The automatic parking system will be evaluated, which consists of the following components: barriers, inductive loops, ticket machines, automatic cashiers.
 
-W ramach projektu analizie zostanie podany naprawialny system szeregowo-równoległy. Ocenie zostanie poddany system automatycznej obsługi parkingu, w którego skład wchodzą następujące elementy: szlabany, pętle indukcyjne, bileterki, kasy automatyczne.
+The planned outcome of the project is to determine the reliability of the parking system for different parameter values and identify weak points in the system that require improvement. The aim is also to optimize the system's costs and propose ways to improve reliability.
 
-Planowanym efektem projektu jest określenie niezawodności systemu obsługi parkingu dla różnych wartości parametrów oraz identyfikacja słabych punktów systemu, które wymagają poprawy. Celem jest także optymalizacja kosztów systemu i zaproponowanie sposobów na poprawę niezawodności.
-
-## Autorzy
+## Authors
 Jacek Bogdański & Kamil Wojcieszak
 
-## Uruchomienie
-
-1. Rozpakuj zawartość pliku NiDUC_Bogdanski_Wojcieszak_Parking_MTTF.zip
-2. Otwórz wypakowany katalog w konsoli i uruchom polecenie ```python main.py```
-3. Godzinę szczytu ustawia się w pliku konfiguracji, dla parkingu przy uczelni ustawiona została godzina 4, a dla parkingu przy galerii handlowej, godzina 16.
-
+## Execution
+Unzip the contents of the NiDUC_Bogdanski_Wojcieszak_Parking_MTTF.zip file.
+Open the unpacked directory in the console and run the command python main.py.
+The peak hour is set in the configuration file; for the university parking lot, the hour is set to 4, and for the shopping mall parking lot, it is set to 16.
