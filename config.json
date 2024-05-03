@@ -1,0 +1,26 @@
+{
+  "wjazdy": {
+    "liczba": 2,
+    "sredni_czas_przejazdu": 15,
+    "MTTR": 14000,
+    "MTTF": 3000000
+  },
+  "kasy": {
+    "liczba": 5   ,
+    "sredni_czas_kasowania": 40,
+    "MTTR": 10000,
+    "MTTF": 600000
+  },
+  "wyjazdy": {
+    "liczba": 2,
+    "sredni_czas_przejazdu": 20,
+    "MTTR": 13000,
+    "MTTF": 3000000
+  },
+  "parametry": {
+    "liczba_miejsc": 200,
+    "sredni_czas_pobytu": 14400,
+    "sredni_czas_miedzy_przyjazdami": 70,
+    "godzina_szczytu": 4
+  }
+}
