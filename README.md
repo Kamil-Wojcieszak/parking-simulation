@@ -9,6 +9,5 @@ The planned outcome of the project is to determine the reliability of the parkin
 Jacek Bogdański & Kamil Wojcieszak
 
 ## Execution
-Unzip the contents of the NiDUC_Bogdanski_Wojcieszak_Parking_MTTF.zip file.
-Open the unpacked directory in the console and run the command python main.py.
-The peak hour is set in the configuration file; for the university parking lot, the hour is set to 4, and for the shopping mall parking lot, it is set to 16.
+1. Open the unpacked directory in the console and run the command python main.py.
+2. The peak hour is set in the configuration file; for the university parking lot, the hour is set to 4, and for the shopping mall parking lot, it is set to 16.
